@@ -1,0 +1,43 @@
+.allbrands {
+    margin: 20px;
+}
+
+.latestCar {
+    margin: 20px;
+}
+
+.popular{
+    margin-left: 20px;
+    margin-bottom: 25px;
+}
+
+footer{
+    background-color: #00337C;
+    border-top-right-radius: 8px;
+    border-top-left-radius: 8px;
+    text-align: center;
+    color: white;
+}
+
+#copy{
+    margin: 0px;
+}
+
+.card-wrapper{
+    display: flex;
+}
+
+.card{
+    margin: 0 0.5rem;
+    width: calc(100%/4);
+}
+
+.tile {
+    background-color: white;
+    border: 1px solid #F1F6F9;
+    padding: 10px;
+    margin-bottom: 10px;
+    height: 135px;
+    text-align: center;
+    font-weight: 500;
+  }
